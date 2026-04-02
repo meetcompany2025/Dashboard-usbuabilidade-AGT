@@ -1,0 +1,15 @@
+# Core
+streamlit==1.40.1
+pandas==2.2.3
+plotly==5.24.1
+numpy==1.26.4
+
+# Visual enhancements
+altair==5.4.1
+
+# Optional (for PDF export, if you decide to add)
+# pdfkit==1.0.0
+# wkhtmltopdf==0.12.6
+
+# Encoding and locale support
+python-dateutil==2.9.0.post0
