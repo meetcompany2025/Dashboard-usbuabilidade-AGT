@@ -1,13 +1,4 @@
-# Core
-streamlit==1.40.1
-pandas==2.2.3
-plotly==5.24.1
-numpy==1.26.4
-
-# Visual enhancements
-altair==5.4.1
-
-
-# pdfkit==1.0.0
-# wkhtmltopdf==0.12.6
-
+streamlit
+pandas
+plotly
+numpy
